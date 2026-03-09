@@ -1,4 +1,3 @@
-# vendor-performance-data-analysis
 # Vendor Performance Data Analytics Project
 
 ## 📌 Project Overview
