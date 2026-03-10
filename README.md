@@ -67,3 +67,9 @@ MCA Student | Data Analytics Enthusiast
 
 🔗 LinkedIn  
 https://www.linkedin.com/in/hrutik-maski/
+
+Full Name:HRUTIK MASKI  
+Email ID:hrutikmaski@gmail.com
+College Name:TRINITY ACADEMY OF ENGINENEERING PUNE
+Selected Skill Track: DATA ANALYST & WEB DEVELOPMENT
+Complete the assessment tasks:YES
